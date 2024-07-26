@@ -9,7 +9,7 @@ body{
 .sky {
     width: 100vw;
     height: 100vh;
-    background-color: black;
+    background-color: #87ceeb;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -29,7 +29,7 @@ body{
     animation-name: animate-sun;
 }
 .moon{
-    background-color: whitesmoke;
+    background-color: gray;
     animation-name: animate-moon;
 }
 @keyframes animate-sky{
